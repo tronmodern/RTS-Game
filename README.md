@@ -3,6 +3,6 @@ A narrative-driven space RTS (WIP) focused on atmosphere, exploration, and base 
 #[Project video](https://www.youtube.com/watch?v=FG9L2SGI-yo)(YouTube)
 ## Screenshots
 
-![Gameplay](photo_2026-08-01_17-12-35.jpg)
+![Gameplay](images/photo_2026-08-01_17-12-35.jpg)
 
 
